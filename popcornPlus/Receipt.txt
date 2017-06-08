@@ -1,0 +1,20 @@
+                Porpcorn Receipt
+
+Title               Inception
+
+Screen              A
+
+
+RunTime             02:00:00
+
+
+Seat               
+
+
+Date                16:00:00
+
+
+Ticket Price        6.00
+
+
+Total               
